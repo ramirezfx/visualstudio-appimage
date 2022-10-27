@@ -14,15 +14,15 @@ Clone this repo:
 
 Navigate to the script-directory:
 
-cd visualstudio-appimage
+`cd visualstudio-appimage`
 
 Make the script executable:
 
-chmod +x getlatestvstudio.sh
+`chmod +x getlatestvstudio.sh`
 
 Run the script:
 
-./getlatestvstudio.sh
+`./getlatestvstudio.sh`
 
 The latest AppImage-version of Visual Studio will be downloaded.
 
