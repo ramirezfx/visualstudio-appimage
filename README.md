@@ -10,20 +10,20 @@ sudo apt-get install git
 
 Clone this repo:
 
-`git clone [https://github.com/ramirezfx/firefox-appimage.git](https://github.com/ramirezfx/visualstudio-appimage.git)`
+`git clone https://github.com/ramirezfx/visualstudio-appimage.git`
 
 Navigate to the script-directory:
 
-cd firefox-appimage
+cd visualstudio-appimage
 
 Make the script executable:
 
-chmod +x getlatestfirefox.sh
+chmod +x getlatestvstudio.sh
 
 Run the script:
 
-./getlatestfirefox.sh
+./getlatestvstudio.sh
 
-The latest AppImage-version of firefox will be downloaded.
+The latest AppImage-version of Visual Studio will be downloaded.
 
-The file will be created in the same directory and the name will be Firefox_Web_Browser-x86_64.AppImage
+The file will be created in the same directory and the name will be **VSCode.AppImage**
